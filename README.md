@@ -1,5 +1,7 @@
 This is the code used for the experiments in the paper ["Bayesian Neural Networks with Variance Propagation for Uncertainty Evaluation"](https://openreview.net/forum?id=ridQwl2NL3L). This provides logs of the experiments.
 
+The experiments are conducted using TensorFlow 2.1. Please see requirements.txt to know packages in the experiments.
+
 ## Code
 
 - approximation_*.ipynb:
