@@ -1,0 +1,7 @@
+errors 0.082620 +- 0.002902 (stddev) +- 0.000649 (std error), median 0.082214 25p 0.080736 75p 0.084023 
+MC10 errors 0.083806 +- 0.002905 (stddev) +- 0.000650 (std error), median 0.083599 25p 0.081855 75p 0.085630 
+MC10 lls 1.050920 +- 0.047470 (stddev) +- 0.010615 (std error), median 1.063683 25p 1.020222 75p 1.088213 
+MC1000 errors 0.082740 +- 0.002898 (stddev) +- 0.000648 (std error), median 0.082428 25p 0.080778 75p 0.084160 
+MC1000 lls 1.085011 +- 0.034788 (stddev) +- 0.007779 (std error), median 1.093846 25p 1.063282 75p 1.105499 
+VP errors 0.082521 +- 0.002878 (stddev) +- 0.000644 (std error), median 0.082353 25p 0.080452 75p 0.083899 
+VP lls 1.093757 +- 0.031748 (stddev) +- 0.007099 (std error), median 1.096989 25p 1.071443 75p 1.116519 
